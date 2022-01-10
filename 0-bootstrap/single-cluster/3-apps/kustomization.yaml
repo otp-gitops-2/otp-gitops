@@ -41,7 +41,6 @@ resources:
  - argocd/clusters/submariner/add-clusters-to-clusterset.yaml
  
  - argocd/clusters/submariner/deploy-submariner.yaml
-
  ## Deploy Applications to Managed Clusters
  ## Include the Applications you wish to deploy below
  ## An example has been provided
